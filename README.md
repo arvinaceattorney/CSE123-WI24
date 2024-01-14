@@ -1,1 +1,1 @@
-# CSE123-WI24
+# CSE123 Winter 2024 Lecture and Discussion Notes
